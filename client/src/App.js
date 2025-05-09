@@ -9,7 +9,7 @@ import api from './services/api';
 function App() {
   const [cards, setCards] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [categories, setCategories] = useState(['general', 'food', 'travel', 'business', 'family']);
+  const [categories, setCategories] = useState(['general', 'food', 'travel', 'house', 'family' ]);
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [mode, setMode] = useState('manage'); // 'manage' ou 'deck'
   

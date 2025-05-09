@@ -7,7 +7,7 @@ function AddCard({ onCardAdded }) {
     english: '',
     category: 'general' // Valor padrão
   });
-  const [categories, setCategories] = useState(['general', 'food', 'travel', 'business', 'family']);
+  const [categories, setCategories] = useState(['general', 'food', 'travel', 'house', 'family']);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState(null);
   
