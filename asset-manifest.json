@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/german-A2/static/css/main.ed0fc45e.css",
+    "main.js": "/german-A2/static/js/main.09909538.js",
+    "static/js/488.6453e05c.chunk.js": "/german-A2/static/js/488.6453e05c.chunk.js",
+    "index.html": "/german-A2/index.html",
+    "main.ed0fc45e.css.map": "/german-A2/static/css/main.ed0fc45e.css.map",
+    "main.09909538.js.map": "/german-A2/static/js/main.09909538.js.map",
+    "488.6453e05c.chunk.js.map": "/german-A2/static/js/488.6453e05c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0fc45e.css",
+    "static/js/main.09909538.js"
+  ]
+}
